@@ -3,3 +3,4 @@ pinecone-client
 openai
 tiktoken
 nest_asyncio
+sentence-transformers
