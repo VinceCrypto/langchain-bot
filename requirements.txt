@@ -4,3 +4,4 @@ openai
 tiktoken
 nest_asyncio
 sentence-transformers
+lxml
